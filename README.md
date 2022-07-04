@@ -69,7 +69,7 @@ public class SpawnManager : MonoBehaviour
 
 ```
 ### DETECT COLLISION
-```C#
+```c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
